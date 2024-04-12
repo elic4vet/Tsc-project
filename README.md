@@ -54,6 +54,8 @@
 </svg>
 
 
+![cb-banner](https://github.com/elic4vet/Tsc-project/assets/86532060/c3e75b8d-b721-495f-beb0-7d4307befbd9)
+
 ![ts-logo-round-1![cb-banner](https://github.com/elic4vet/Tsc-project/assets/86532060/a89efadd-3204-4c3c-852c-14c1c7b09663)
 28](https://github.com/elic4vet/Tsc-project/assets/86532060/83781108-c350-4330-bdd7-3f77cfb97003)
 
