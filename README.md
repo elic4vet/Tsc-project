@@ -1,5 +1,15 @@
-
-
+## Typescript  
+- [Introduction](#introduction)
+  - [Statically-typed](#statically-typed)
+  - [Dynamically-typed](#dynamically-typed)
+- [Compiler](#typescript-compiler)
+  - [Installing-compiler](#installing-compiler)
+- [Debugging](#typescript-compiler)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 
 # Introduction to Typescript 
@@ -45,13 +55,13 @@ tsc --init
 to be continued.... 
 
 
-
-
-## Acknowledgments
+# Acknowledgments
 
 * [Everyday types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 * [The basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 * [TypeScript](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript)
 * [Compile TypeScript code](https://learn.microsoft.com/en-us/visualstudio/javascript/compile-typescript-code-npm?view=vs-2022)
+
+
 
 
