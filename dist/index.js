@@ -1,5 +1,7 @@
 "use strict";
-let sales = 123456789;
-let course = "TypeScript";
-let isPublished = true;
+const small = 1;
+const medium = 2;
+const large = 3;
+let size = 2;
+console.log(size);
 //# sourceMappingURL=index.js.map
