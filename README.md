@@ -44,13 +44,12 @@ Check the installed edition:
 ```
 tsc -v
 ```
-
+ 
+# Debugging - `tsconfig.json` 
 ```
 tsc --init
 
 ```
-# Debugging - `tsconfig.json` 
-
 
 to be continued.... 
 
