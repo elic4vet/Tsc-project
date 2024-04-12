@@ -1,9 +1,9 @@
 ## Typescript  
 - [Introduction](#introduction)
-  - [Statically-typed](#statically-typed)
-  - [Dynamically-typed](#dynamically-typed)
+  - [Statically typed](#statically-typed)
+  - [Dynamically typed](#dynamically-typed)
 - [Compiler](#typescript-compiler)
-  - [Installing-compiler](#installing-compiler)
+  - [Installing compiler](#installing-compiler)
 - [Debugging](#typescript-compiler)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
