@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="2480px" height="1024px" viewBox="0 0 2480 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>cb-banner</title>
     <g id="cb-banner" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="guides" transform="translate(213.000000, 64.000000)"></g>
         <g id="objects" transform="translate(87.000000, 64.000000)">
