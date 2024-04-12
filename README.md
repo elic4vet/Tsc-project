@@ -1,6 +1,5 @@
 
-![Typescript_logo_2020 svg](https://github.com/elic4vet/Tsc-project/assets/86532060/5f214531-3284-468a-aa22-4730276dbd1d)
-# Typescript  
+![Typescript_logo_2020 svg](https://github.com/elic4vet/Tsc-project/assets/86532060/5f214531-3284-468a-aa22-4730276dbd1d) # Typescript  
 - [Introduction](#introduction)
   - [Statically typed](#statically-typed)
   - [Dynamically typed](#dynamically-typed)
