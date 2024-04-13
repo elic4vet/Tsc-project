@@ -17,4 +17,7 @@ let size = Size.Medium;
 console.log(size);
 
 
+function calculateTax(amount: number): number {
+    return amount * 1.2;
+}
 
