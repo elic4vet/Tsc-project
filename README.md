@@ -12,7 +12,7 @@
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Useful Links](#useful-links)
 
 
 # Introduction to Typescript 
@@ -57,12 +57,14 @@ tsc --init
 to be continued.... 
 
 
-# Acknowledgments
+# Useful Links 
 
 * [Everyday types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 * [The basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 * [TypeScript](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript)
 * [Compile TypeScript code](https://learn.microsoft.com/en-us/visualstudio/javascript/compile-typescript-code-npm?view=vs-2022)
+* [TypeScript Tutorial for Beginners](https://www.youtube.com/watch?v=d56mG7DezGs&t=3298s)
+
 
 
 
